@@ -5,4 +5,11 @@
   "download_url": "https://www.dropbox.com/s/ixhr2h0mlot4e8b/org.ligi.passandroid_2.8.0.apk?dl=1",
   "enable": true,
   "version": 2
+},{
+  "name": "App2",
+  "description": "App for testing",
+  "icon_url": "http://icons.iconarchive.com/icons/iconshock/hitchhikers-guide/256/Marvin-icon.png",
+  "download_url": "https://www.dropbox.com/s/ixhr2h0mlot4e8b/org.ligi.passandroid_2.8.0.apk?dl=1",
+  "enable": true,
+  "version": 2
 }]
