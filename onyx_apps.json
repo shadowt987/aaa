@@ -1,8 +1,8 @@
 [{
-  "name": "App1",
-  "description": "App for testing",
-  "icon_url": "http://icons.iconarchive.com/icons/iconshock/hitchhikers-guide/256/Marvin-icon.png",
-  "download_url": "https://www.dropbox.com/s/ixhr2h0mlot4e8b/org.ligi.passandroid_2.8.0.apk?dl=1",
+  "name": "BB",
+  "description": "Big Buttons",
+  "icon_url": "https://lh3.ggpht.com/NiIdXlOOareL4qbGwkllIUdbYZcLkU8O-UV5Q94BW2zopyN1YZ_GEu238A4505CqNg=w100",
+  "download_url": "https://www.dropbox.com/s/3r2cemp6ujprixv/com.bigbuttons_1.8.4.apk?dl=1",
   "enable": true,
   "version": 2
 },{
